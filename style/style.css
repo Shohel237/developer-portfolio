@@ -148,3 +148,15 @@ height: 676px;
     color: rgb(71, 71, 71);
     text-align: left;
 }
+
+.what_i_do{
+    margin: 0 345px;
+    text-align: center;
+
+}
+.what_i_do>h4{
+    margin-bottom: 30px;
+}
+.what_i_do>p{
+    margin-bottom: 50px;
+}
