@@ -1,0 +1,52 @@
+
+
+
+.open-sans-normal {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+
+/* nav style */
+.btn-primary{
+    background: rgb(253, 110, 10);
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    padding: 18px 35px;
+    border-radius: 5px;
+    border-style: none;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 51px 226px;
+    font-family: "Open Sans", sans-serif;
+}
+.logo{
+    font-family: "Open Sans", sans-serif;
+    font-weight: 800;
+    font-size: 45px;
+
+}
+.logo-r{
+    color: rgb(253, 110, 10);
+}
+nav ul{
+    display: flex;
+    align-items: center;
+}
+nav ul li{
+    list-style: none;
+    margin-right: 51px;
+}
+nav li a{
+    text-decoration: none;
+    color: rgb(71, 71, 71);
+    font-size: 20px;
+
+}
