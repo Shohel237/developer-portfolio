@@ -160,3 +160,35 @@ height: 676px;
 .what_i_do>p{
     margin-bottom: 50px;
 }
+
+/* skills container start */
+.skills-container{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(0, 0, 0, 0.03);
+    margin: 0 230px;
+}
+.skill{
+    width: 267px;
+    height: 377px;
+    background-color: white;
+    padding: 30px 33px;
+    margin:6px 12px;
+    border-radius: 5px;
+}
+.skill>img{
+    margin-bottom: 38px;
+}
+.skill-title{
+    color: rgb(24, 24, 24);
+font-family: Open Sans;
+font-size: 20px;
+font-weight: 700;
+margin-bottom: 20px;
+}
+.skill-description{
+    color: rgb(117, 117, 117);
+font-family: Open Sans;
+font-size: 16px;
+font-weight: 400;
+}
